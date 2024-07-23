@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1685449224 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\main.cpp
+	<iostream>
+	"time.h"
+	<conio.h>
+	<chrono>
+	<thread>
+	"Palya.h"
+	"gtest_lite.h"
+	"Snake.h"
+
+1685306880 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\pont.cpp
+	"Pont.h"
+	<iostream>
+
+1685466619 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\snake.cpp
+	"Snake.h"
+	<windows.h>
+
+1685220107 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\pont.cpp
+	<iostream>
+
+1685220626 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\snake.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	"pont.h"
+	<windows.h>
+
+1685448735 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\palya.cpp
+	"Palya.h"
+	<conio.h>
+	<cstdlib>
+	<limits>
+
+1685277373 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\palya.cpp
+	"Snake.h"
+	"time.h"
+	"Fruit.h"
+	<conio.h>
+	<chrono>
+	<thread>
+	<iostream>
+
+1685220279 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\include\pont.h
+
+1685298801 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\src\pont.cpp
+	"pont.h"
+	<iostream>
+
+1685301880 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\include\snake.h
+	<iostream>
+	<string.h>
+	<time.h>
+	"pont.h"
+	<windows.h>
+
+1685298801 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\src\snake.cpp
+	"snake.h"
+
+1685299379 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\src\fruit.cpp
+	"Fruit.h"
+	"Snake.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1685279723 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\include\fruit.h
+	"pont.h"
+	"Snake.h"
+
+1685269370 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\setconsoletoxy.c
+	<windows.h>
+
+1685280686 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\include\palya.h
+	"Snake.h"
+	"Fruit.h"
+	<chrono>
+	<thread>
+	<iostream>
+
+1685299379 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\src\palya.cpp
+	"Palya.h"
+	<conio.h>
+	<cstdlib>
+
+1685288971 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\gtest_lite.h
+	<iostream>
+	<cassert>
+	<cmath>
+	<cstring>
+	<limits>
+	<cstdlib>
+	<string>
+	<fstream>
+	<iterator>
+	<regex>
+	"memtrace.h"
+
+1683570056 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+
+1683570056 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685280686 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\palya.h
+	"Snake.h"
+	"Fruit.h"
+	<chrono>
+	<thread>
+	<iostream>
+
+1685307729 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\snake.h
+	<iostream>
+	<string.h>
+	<time.h>
+	"Pont.h"
+
+1685220279 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\pont.h
+
+1685304785 c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\fruit.h
+	"Snake.h"
+
+1685299379 source:c:\users\varga\desktop\snake_2_nhz\nhz_snake_2\fruit.cpp
+	"Fruit.h"
+	"Snake.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
